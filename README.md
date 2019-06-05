@@ -1,6 +1,6 @@
-### Análise de Dados de nascidos vivos na região Nordeste e Sudeste por idade das mães 
+## Análise de Dados de nascidos vivos na região Nordeste e Sudeste por idade das mães 
 
-# Feito por: Bruna Totti, Eduardo Nunes e Elias Fabiano
+### Feito por: Bruna Totti, Eduardo Nunes e Elias Fabiano
 
 Vamos análisas dados do DataSUS referente a crianças nascidas nos anos de 2016 e 2017; e a idade com que as mulheres tiveram esses filhos. Será comparado a região Nordeste com a região Sudeste do Brasil. Iremos gerar dois gráficos para mostrar onde o índice de mulheres tornando-se mães mais novas acontece. 
 
